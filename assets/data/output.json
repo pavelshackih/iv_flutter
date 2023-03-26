@@ -1,0 +1,3256 @@
+[
+  {
+    "first": {
+      "value": "abide",
+      "sound": "abide.mp3"
+    },
+    "second": [
+      {
+        "value": "abode",
+        "sound": "abode.mp3"
+      },
+      {
+        "value": "abided"
+      }
+    ],
+    "third": [
+      {
+        "value": "abode",
+        "sound": "abode.mp3"
+      },
+      {
+        "value": "abided"
+      }
+    ],
+    "translation": "выносить, терпеть"
+  },
+  {
+    "first": {
+      "value": "arise",
+      "sound": "arise.mp3"
+    },
+    "second": [
+      {
+        "value": "arose",
+        "sound": "arose.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "arisen",
+        "sound": "arisen.mp3"
+      }
+    ],
+    "translation": "возникать, появляться, подниматься"
+  },
+  {
+    "first": {
+      "value": "awake",
+      "sound": "awake.mp3"
+    },
+    "second": [
+      {
+        "value": "awakened"
+      },
+      {
+        "value": "awoke",
+        "sound": "awoke.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "awakened"
+      },
+      {
+        "value": "awoken",
+        "sound": "awoken.mp3"
+      }
+    ],
+    "translation": "будить, проснуться"
+  },
+  {
+    "first": {
+      "value": "backslide",
+      "sound": "backslide.mp3"
+    },
+    "second": [
+      {
+        "value": "backslid"
+      }
+    ],
+    "third": [
+      {
+        "value": "backslidden"
+      },
+      {
+        "value": "backslid"
+      }
+    ],
+    "translation": "отказываться от прежних убеждений"
+  },
+  {
+    "first": {
+      "value": "bear",
+      "sound": "bear.mp3"
+    },
+    "second": [
+      {
+        "value": "bore",
+        "sound": "bore.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "born",
+        "sound": "born.mp3"
+      },
+      {
+        "value": "borne",
+        "sound": "borne.mp3"
+      }
+    ],
+    "translation": "родить"
+  },
+  {
+    "first": {
+      "value": "beat",
+      "sound": "beat.mp3"
+    },
+    "second": [
+      {
+        "value": "beat",
+        "sound": "beat.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "beaten",
+        "sound": "beaten.mp3"
+      },
+      {
+        "value": "beat",
+        "sound": "beat.mp3"
+      }
+    ],
+    "translation": "бить"
+  },
+  {
+    "first": {
+      "value": "bet",
+      "sound": "bet.mp3"
+    },
+    "second": [
+      {
+        "value": "bet",
+        "sound": "bet.mp3"
+      },
+      {
+        "value": "betted"
+      }
+    ],
+    "third": [
+      {
+        "value": "bet",
+        "sound": "bet.mp3"
+      },
+      {
+        "value": "betted"
+      }
+    ],
+    "translation": "держать пари"
+  },
+  {
+    "first": {
+      "value": "bid",
+      "sound": "bid.mp3"
+    },
+    "second": [
+      {
+        "value": "bade",
+        "sound": "bade.mp3"
+      },
+      {
+        "value": "bid",
+        "sound": "bid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "bidden",
+        "sound": "bidden.mp3"
+      },
+      {
+        "value": "bid",
+        "sound": "bid.mp3"
+      }
+    ],
+    "translation": "предлагать цену"
+  },
+  {
+    "first": {
+      "value": "bind",
+      "sound": "bind.mp3"
+    },
+    "second": [
+      {
+        "value": "bound",
+        "sound": "bound.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "bound",
+        "sound": "bound.mp3"
+      }
+    ],
+    "translation": "связать"
+  },
+  {
+    "first": {
+      "value": "breed",
+      "sound": "breed.mp3"
+    },
+    "second": [
+      {
+        "value": "bred",
+        "sound": "bred.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "bred",
+        "sound": "bred.mp3"
+      }
+    ],
+    "translation": "выращивать, воспитывать"
+  },
+  {
+    "first": {
+      "value": "broadcast",
+      "sound": "broadcast.mp3"
+    },
+    "second": [
+      {
+        "value": "broadcast",
+        "sound": "broadcast.mp3"
+      },
+      {
+        "value": "broadcasted"
+      }
+    ],
+    "third": [
+      {
+        "value": "broadcast",
+        "sound": "broadcast.mp3"
+      },
+      {
+        "value": "broadcasted"
+      }
+    ],
+    "translation": "распространять, разбрасывать"
+  },
+  {
+    "first": {
+      "value": "browbeat",
+      "sound": "browbeat.mp3"
+    },
+    "second": [
+      {
+        "value": "browbeat",
+        "sound": "browbeat.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "browbeaten",
+        "sound": "browbeaten.mp3"
+      },
+      {
+        "value": "browbeat",
+        "sound": "browbeat.mp3"
+      }
+    ],
+    "translation": "запугивать"
+  },
+  {
+    "first": {
+      "value": "burn",
+      "sound": "burn.mp3"
+    },
+    "second": [
+      {
+        "value": "burned"
+      },
+      {
+        "value": "burnt",
+        "sound": "burnt.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "burned"
+      },
+      {
+        "value": "burnt",
+        "sound": "burnt.mp3"
+      }
+    ],
+    "translation": "гореть, жечь"
+  },
+  {
+    "first": {
+      "value": "burst",
+      "sound": "burst.mp3"
+    },
+    "second": [
+      {
+        "value": "burst",
+        "sound": "burst.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "burst",
+        "sound": "burst.mp3"
+      }
+    ],
+    "translation": "взрываться, прорываться"
+  },
+  {
+    "first": {
+      "value": "bust",
+      "sound": "bust.mp3"
+    },
+    "second": [
+      {
+        "value": "busted",
+        "sound": "busted.mp3"
+      },
+      {
+        "value": "bust",
+        "sound": "bust.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "busted",
+        "sound": "busted.mp3"
+      },
+      {
+        "value": "bust",
+        "sound": "bust.mp3"
+      }
+    ],
+    "translation": "разжаловать"
+  },
+  {
+    "first": {
+      "value": "cling",
+      "sound": "cling.mp3"
+    },
+    "second": [
+      {
+        "value": "clung",
+        "sound": "clung.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "clung",
+        "sound": "clung.mp3"
+      }
+    ],
+    "translation": "цепляться, льнуть"
+  },
+  {
+    "first": {
+      "value": "clothe",
+      "sound": "clothe.mp3"
+    },
+    "second": [
+      {
+        "value": "clothed",
+        "sound": "clothed.mp3"
+      },
+      {
+        "value": "clad",
+        "sound": "clad.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "clothed",
+        "sound": "clothed.mp3"
+      },
+      {
+        "value": "clad",
+        "sound": "clad.mp3"
+      }
+    ],
+    "translation": "одевать (кого-либо)"
+  },
+  {
+    "first": {
+      "value": "creep",
+      "sound": "creep.mp3"
+    },
+    "second": [
+      {
+        "value": "crept",
+        "sound": "crept.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "crept",
+        "sound": "crept.mp3"
+      }
+    ],
+    "translation": "ползать"
+  },
+  {
+    "first": {
+      "value": "deal",
+      "sound": "deal.mp3"
+    },
+    "second": [
+      {
+        "value": "dealt",
+        "sound": "dealt.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "dealt",
+        "sound": "dealt.mp3"
+      }
+    ],
+    "translation": "иметь дело"
+  },
+  {
+    "first": {
+      "value": "dive",
+      "sound": "dive.mp3"
+    },
+    "second": [
+      {
+        "value": "dove"
+      },
+      {
+        "value": "dived"
+      }
+    ],
+    "third": [
+      {
+        "value": "dived"
+      }
+    ],
+    "translation": "нырять, погружаться"
+  },
+  {
+    "first": {
+      "value": "dream",
+      "sound": "dream.mp3"
+    },
+    "second": [
+      {
+        "value": "dreamed"
+      },
+      {
+        "value": "dreamt",
+        "sound": "dreamt.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "dreamed"
+      },
+      {
+        "value": "dreamt",
+        "sound": "dreamt.mp3"
+      }
+    ],
+    "translation": "грезить, мечтать"
+  },
+  {
+    "first": {
+      "value": "dwell",
+      "sound": "dwell.mp3"
+    },
+    "second": [
+      {
+        "value": "dwelt",
+        "sound": "dwelt.mp3"
+      },
+      {
+        "value": "dwelled"
+      }
+    ],
+    "third": [
+      {
+        "value": "dwelt",
+        "sound": "dwelt.mp3"
+      },
+      {
+        "value": "dwelled"
+      }
+    ],
+    "translation": "обитать, находиться"
+  },
+  {
+    "first": {
+      "value": "fit",
+      "sound": "fit.mp3"
+    },
+    "second": [
+      {
+        "value": "fit",
+        "sound": "fit.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "fit",
+        "sound": "fit.mp3"
+      }
+    ],
+    "translation": "подходить по размеру"
+  },
+  {
+    "first": {
+      "value": "flee",
+      "sound": "flee.mp3"
+    },
+    "second": [
+      {
+        "value": "fled",
+        "sound": "fled.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "fled",
+        "sound": "fled.mp3"
+      }
+    ],
+    "translation": "убегать, спасаться"
+  },
+  {
+    "first": {
+      "value": "fling",
+      "sound": "fling.mp3"
+    },
+    "second": [
+      {
+        "value": "flung",
+        "sound": "flung.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "flung",
+        "sound": "flung.mp3"
+      }
+    ],
+    "translation": "бросаться, ринуться"
+  },
+  {
+    "first": {
+      "value": "forbid",
+      "sound": "forbid.mp3"
+    },
+    "second": [
+      {
+        "value": "forbade",
+        "sound": "forbade.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "forbidden",
+        "sound": "forbidden.mp3"
+      }
+    ],
+    "translation": "запрещать"
+  },
+  {
+    "first": {
+      "value": "forecast",
+      "sound": "forecast.mp3"
+    },
+    "second": [
+      {
+        "value": "forecast",
+        "sound": "forecast.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "forecast",
+        "sound": "forecast.mp3"
+      }
+    ],
+    "translation": "предсказывать, предвосхищать"
+  },
+  {
+    "first": {
+      "value": "foresee",
+      "sound": "foresee.mp3"
+    },
+    "second": [
+      {
+        "value": "foresaw"
+      }
+    ],
+    "third": [
+      {
+        "value": "foreseen"
+      }
+    ],
+    "translation": "предвидеть"
+  },
+  {
+    "first": {
+      "value": "foretell",
+      "sound": "foretell.mp3"
+    },
+    "second": [
+      {
+        "value": "foretold",
+        "sound": "foretold.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "foretold",
+        "sound": "foretold.mp3"
+      }
+    ],
+    "translation": "предсказывать, прогнозировать"
+  },
+  {
+    "first": {
+      "value": "forgive",
+      "sound": "forgive.mp3"
+    },
+    "second": [
+      {
+        "value": "forgave",
+        "sound": "forgave.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "forgiven"
+      }
+    ],
+    "translation": "прощать"
+  },
+  {
+    "first": {
+      "value": "forsake",
+      "sound": "forsake.mp3"
+    },
+    "second": [
+      {
+        "value": "forsook",
+        "sound": "forsook.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "forsaken",
+        "sound": "forsaken.mp3"
+      }
+    ],
+    "translation": "покидать"
+  },
+  {
+    "first": {
+      "value": "grind",
+      "sound": "grind.mp3"
+    },
+    "second": [
+      {
+        "value": "ground",
+        "sound": "ground.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "ground",
+        "sound": "ground.mp3"
+      }
+    ],
+    "translation": "молоть, толочь"
+  },
+  {
+    "first": {
+      "value": "hew",
+      "sound": "hew.mp3"
+    },
+    "second": [
+      {
+        "value": "hewed"
+      }
+    ],
+    "third": [
+      {
+        "value": "hewn",
+        "sound": "hewn.mp3"
+      },
+      {
+        "value": "hewed"
+      }
+    ],
+    "translation": "рубить"
+  },
+  {
+    "first": {
+      "value": "inlay"
+    },
+    "second": [
+      {
+        "value": "inlaid",
+        "sound": "inlaid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "inlaid",
+        "sound": "inlaid.mp3"
+      }
+    ],
+    "translation": "вкладывать, вставлять, выстилать"
+  },
+  {
+    "first": {
+      "value": "input",
+      "sound": "input.mp3"
+    },
+    "second": [
+      {
+        "value": "input",
+        "sound": "input.mp3"
+      },
+      {
+        "value": "inputted"
+      }
+    ],
+    "third": [
+      {
+        "value": "input",
+        "sound": "input.mp3"
+      },
+      {
+        "value": "inputted"
+      }
+    ],
+    "translation": "входить"
+  },
+  {
+    "first": {
+      "value": "interweave",
+      "sound": "interweave.mp3"
+    },
+    "second": [
+      {
+        "value": "interwove",
+        "sound": "interwove.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "interwoven",
+        "sound": "interwoven.mp3"
+      }
+    ],
+    "translation": "воткать"
+  },
+  {
+    "first": {
+      "value": "kneel",
+      "sound": "kneel.mp3"
+    },
+    "second": [
+      {
+        "value": "knelt",
+        "sound": "knelt.mp3"
+      },
+      {
+        "value": "kneeled"
+      }
+    ],
+    "third": [
+      {
+        "value": "knelt",
+        "sound": "knelt.mp3"
+      },
+      {
+        "value": "kneeled"
+      }
+    ],
+    "translation": "становиться на колени"
+  },
+  {
+    "first": {
+      "value": "knit",
+      "sound": "knit.mp3"
+    },
+    "second": [
+      {
+        "value": "knitted"
+      },
+      {
+        "value": "knit",
+        "sound": "knit.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "knitted"
+      },
+      {
+        "value": "knit",
+        "sound": "knit.mp3"
+      }
+    ],
+    "translation": "вязать"
+  },
+  {
+    "first": {
+      "value": "lay",
+      "sound": "lay.mp3"
+    },
+    "second": [
+      {
+        "value": "laid",
+        "sound": "laid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "laid",
+        "sound": "laid.mp3"
+      }
+    ],
+    "translation": "класть, положить"
+  },
+  {
+    "first": {
+      "value": "learn",
+      "sound": "learn.mp3"
+    },
+    "second": [
+      {
+        "value": "learnt",
+        "sound": "learnt.mp3"
+      },
+      {
+        "value": "learned",
+        "sound": "learned.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "learnt",
+        "sound": "learnt.mp3"
+      },
+      {
+        "value": "learned",
+        "sound": "learned.mp3"
+      }
+    ],
+    "translation": "учить"
+  },
+  {
+    "first": {
+      "value": "may",
+      "sound": "may.mp3"
+    },
+    "second": [
+      {
+        "value": "might",
+        "sound": "might.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "might",
+        "sound": "might.mp3"
+      }
+    ],
+    "translation": "мочь, иметь возможность"
+  },
+  {
+    "first": {
+      "value": "miscast",
+      "sound": "miscast.mp3"
+    },
+    "second": [
+      {
+        "value": "miscast",
+        "sound": "miscast.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "miscast",
+        "sound": "miscast.mp3"
+      }
+    ],
+    "translation": "неправильно распределять роли"
+  },
+  {
+    "first": {
+      "value": "misdeal",
+      "sound": "misdeal.mp3"
+    },
+    "second": [
+      {
+        "value": "misdealt"
+      }
+    ],
+    "third": [
+      {
+        "value": "misdealt"
+      }
+    ],
+    "translation": "поступать неправильно"
+  },
+  {
+    "first": {
+      "value": "misdo",
+      "sound": "misdo.mp3"
+    },
+    "second": [
+      {
+        "value": "misdid"
+      }
+    ],
+    "third": [
+      {
+        "value": "misdone"
+      }
+    ],
+    "translation": "делать что-либо неправильно или небрежно"
+  },
+  {
+    "first": {
+      "value": "misgive",
+      "sound": "misgive.mp3"
+    },
+    "second": [
+      {
+        "value": "misgave"
+      }
+    ],
+    "third": [
+      {
+        "value": "misgiven"
+      }
+    ],
+    "translation": "внушать недоверия, опасения"
+  },
+  {
+    "first": {
+      "value": "mishear",
+      "sound": "mishear.mp3"
+    },
+    "second": [
+      {
+        "value": "misheard"
+      }
+    ],
+    "third": [
+      {
+        "value": "misheard"
+      }
+    ],
+    "translation": "ослышаться"
+  },
+  {
+    "first": {
+      "value": "mishit",
+      "sound": "mishit.mp3"
+    },
+    "second": [
+      {
+        "value": "mishit",
+        "sound": "mishit.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "mishit",
+        "sound": "mishit.mp3"
+      }
+    ],
+    "translation": "промахнуться"
+  },
+  {
+    "first": {
+      "value": "mislay",
+      "sound": "mislay.mp3"
+    },
+    "second": [
+      {
+        "value": "mislaid"
+      }
+    ],
+    "third": [
+      {
+        "value": "mislaid"
+      }
+    ],
+    "translation": "класть не на место"
+  },
+  {
+    "first": {
+      "value": "mislead",
+      "sound": "mislead.mp3"
+    },
+    "second": [
+      {
+        "value": "misled",
+        "sound": "misled.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "misled",
+        "sound": "misled.mp3"
+      }
+    ],
+    "translation": "ввести в заблуждение"
+  },
+  {
+    "first": {
+      "value": "misread"
+    },
+    "second": [
+      {
+        "value": "misread"
+      }
+    ],
+    "third": [
+      {
+        "value": "misread"
+      }
+    ],
+    "translation": "неправильно истолковывать"
+  },
+  {
+    "first": {
+      "value": "misspell",
+      "sound": "misspell.mp3"
+    },
+    "second": [
+      {
+        "value": "misspelled"
+      },
+      {
+        "value": "misspelt"
+      }
+    ],
+    "third": [
+      {
+        "value": "misspelled"
+      },
+      {
+        "value": "misspelt"
+      }
+    ],
+    "translation": "писать с ошибками"
+  },
+  {
+    "first": {
+      "value": "misspend",
+      "sound": "misspend.mp3"
+    },
+    "second": [
+      {
+        "value": "misspent"
+      }
+    ],
+    "third": [
+      {
+        "value": "misspent"
+      }
+    ],
+    "translation": "неразумно, зря тратить"
+  },
+  {
+    "first": {
+      "value": "mistake",
+      "sound": "mistake.mp3"
+    },
+    "second": [
+      {
+        "value": "mistook",
+        "sound": "mistook.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "mistaken",
+        "sound": "mistaken.mp3"
+      }
+    ],
+    "translation": "ошибаться"
+  },
+  {
+    "first": {
+      "value": "misunderstand",
+      "sound": "misunderstand.mp3"
+    },
+    "second": [
+      {
+        "value": "misunderstood",
+        "sound": "misunderstood.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "misunderstood",
+        "sound": "misunderstood.mp3"
+      }
+    ],
+    "translation": "неправильно понимать"
+  },
+  {
+    "first": {
+      "value": "mow"
+    },
+    "second": [
+      {
+        "value": "mowed",
+        "sound": "mowed.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "mowed",
+        "sound": "mowed.mp3"
+      },
+      {
+        "value": "mown",
+        "sound": "mown.mp3"
+      }
+    ],
+    "translation": "косить"
+  },
+  {
+    "first": {
+      "value": "offset",
+      "sound": "offset.mp3"
+    },
+    "second": [
+      {
+        "value": "offset",
+        "sound": "offset.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "offset",
+        "sound": "offset.mp3"
+      }
+    ],
+    "translation": "возмещать, вознаграждать, компенсировать"
+  },
+  {
+    "first": {
+      "value": "outbid",
+      "sound": "outbid.mp3"
+    },
+    "second": [
+      {
+        "value": "outbid",
+        "sound": "outbid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "outbid",
+        "sound": "outbid.mp3"
+      }
+    ],
+    "translation": "перебивать цену"
+  },
+  {
+    "first": {
+      "value": "outdo",
+      "sound": "outdo.mp3"
+    },
+    "second": [
+      {
+        "value": "outdid"
+      }
+    ],
+    "third": [
+      {
+        "value": "outdone"
+      }
+    ],
+    "translation": "превосходить"
+  },
+  {
+    "first": {
+      "value": "outfight"
+    },
+    "second": [
+      {
+        "value": "outfought"
+      }
+    ],
+    "third": [
+      {
+        "value": "outfought"
+      }
+    ],
+    "translation": "побеждать в бою"
+  },
+  {
+    "first": {
+      "value": "outgrow",
+      "sound": "outgrow.mp3"
+    },
+    "second": [
+      {
+        "value": "outgrew"
+      }
+    ],
+    "third": [
+      {
+        "value": "outgrown"
+      }
+    ],
+    "translation": "вырастать из"
+  },
+  {
+    "first": {
+      "value": "output",
+      "sound": "output.mp3"
+    },
+    "second": [
+      {
+        "value": "output",
+        "sound": "output.mp3"
+      },
+      {
+        "value": "outputted"
+      }
+    ],
+    "third": [
+      {
+        "value": "output",
+        "sound": "output.mp3"
+      },
+      {
+        "value": "outputted"
+      }
+    ],
+    "translation": "выходить"
+  },
+  {
+    "first": {
+      "value": "outrun",
+      "sound": "outrun.mp3"
+    },
+    "second": [
+      {
+        "value": "outran"
+      }
+    ],
+    "third": [
+      {
+        "value": "outrun",
+        "sound": "outrun.mp3"
+      }
+    ],
+    "translation": "перегонять, опережать"
+  },
+  {
+    "first": {
+      "value": "outsell",
+      "sound": "outsell.mp3"
+    },
+    "second": [
+      {
+        "value": "outsold"
+      }
+    ],
+    "third": [
+      {
+        "value": "outsold"
+      }
+    ],
+    "translation": "продавать лучше или дороже"
+  },
+  {
+    "first": {
+      "value": "outshine",
+      "sound": "outshine.mp3"
+    },
+    "second": [
+      {
+        "value": "outshone"
+      }
+    ],
+    "third": [
+      {
+        "value": "outshone"
+      }
+    ],
+    "translation": "затмевать"
+  },
+  {
+    "first": {
+      "value": "overbid",
+      "sound": "overbid.mp3"
+    },
+    "second": [
+      {
+        "value": "overbid",
+        "sound": "overbid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "overbid",
+        "sound": "overbid.mp3"
+      }
+    ],
+    "translation": "повелевать"
+  },
+  {
+    "first": {
+      "value": "overcome",
+      "sound": "overcome.mp3"
+    },
+    "second": [
+      {
+        "value": "overcame"
+      }
+    ],
+    "third": [
+      {
+        "value": "overcome",
+        "sound": "overcome.mp3"
+      }
+    ],
+    "translation": "компенсировать"
+  },
+  {
+    "first": {
+      "value": "overdo",
+      "sound": "overdo.mp3"
+    },
+    "second": [
+      {
+        "value": "overdid"
+      }
+    ],
+    "third": [
+      {
+        "value": "overdone"
+      }
+    ],
+    "translation": "пережари(ва)ть"
+  },
+  {
+    "first": {
+      "value": "overdraw",
+      "sound": "overdraw.mp3"
+    },
+    "second": [
+      {
+        "value": "overdrew"
+      }
+    ],
+    "third": [
+      {
+        "value": "overdrawn"
+      }
+    ],
+    "translation": "превышать"
+  },
+  {
+    "first": {
+      "value": "overeat",
+      "sound": "overeat.mp3"
+    },
+    "second": [
+      {
+        "value": "overate"
+      }
+    ],
+    "third": [
+      {
+        "value": "overeaten"
+      }
+    ],
+    "translation": "объедаться"
+  },
+  {
+    "first": {
+      "value": "overfly",
+      "sound": "overfly.mp3"
+    },
+    "second": [
+      {
+        "value": "overflew"
+      }
+    ],
+    "third": [
+      {
+        "value": "overflown"
+      }
+    ],
+    "translation": "перелетать"
+  },
+  {
+    "first": {
+      "value": "overhang"
+    },
+    "second": [
+      {
+        "value": "overhung",
+        "sound": "overhung.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "overhung",
+        "sound": "overhung.mp3"
+      }
+    ],
+    "translation": "нависать"
+  },
+  {
+    "first": {
+      "value": "overhear",
+      "sound": "overhear.mp3"
+    },
+    "second": [
+      {
+        "value": "overheard"
+      }
+    ],
+    "third": [
+      {
+        "value": "overheard"
+      }
+    ],
+    "translation": "подслуш(ив)ать"
+  },
+  {
+    "first": {
+      "value": "overlay",
+      "sound": "overlay.mp3"
+    },
+    "second": [
+      {
+        "value": "overlaid",
+        "sound": "overlaid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "overlaid",
+        "sound": "overlaid.mp3"
+      }
+    ],
+    "translation": "покры(ва)ть"
+  },
+  {
+    "first": {
+      "value": "overpay",
+      "sound": "overpay.mp3"
+    },
+    "second": [
+      {
+        "value": "overpaid"
+      }
+    ],
+    "third": [
+      {
+        "value": "overpaid"
+      }
+    ],
+    "translation": "переплачивать"
+  },
+  {
+    "first": {
+      "value": "override"
+    },
+    "second": [
+      {
+        "value": "overrode"
+      }
+    ],
+    "third": [
+      {
+        "value": "overridden"
+      }
+    ],
+    "translation": "отменять, аннулировать"
+  },
+  {
+    "first": {
+      "value": "overrun"
+    },
+    "second": [
+      {
+        "value": "overran"
+      }
+    ],
+    "third": [
+      {
+        "value": "overrun"
+      }
+    ],
+    "translation": "переливаться через край"
+  },
+  {
+    "first": {
+      "value": "oversee",
+      "sound": "oversee.mp3"
+    },
+    "second": [
+      {
+        "value": "oversaw"
+      }
+    ],
+    "third": [
+      {
+        "value": "overseen"
+      }
+    ],
+    "translation": "надзирать за"
+  },
+  {
+    "first": {
+      "value": "overshoot",
+      "sound": "overshoot.mp3"
+    },
+    "second": [
+      {
+        "value": "overshot",
+        "sound": "overshot.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "overshot",
+        "sound": "overshot.mp3"
+      }
+    ],
+    "translation": "расстрелять"
+  },
+  {
+    "first": {
+      "value": "oversleep",
+      "sound": "oversleep.mp3"
+    },
+    "second": [
+      {
+        "value": "overslept",
+        "sound": "overslept.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "overslept",
+        "sound": "overslept.mp3"
+      }
+    ],
+    "translation": "проспать, заспаться"
+  },
+  {
+    "first": {
+      "value": "overtake",
+      "sound": "overtake.mp3"
+    },
+    "second": [
+      {
+        "value": "overtook"
+      }
+    ],
+    "third": [
+      {
+        "value": "overtaken"
+      }
+    ],
+    "translation": "догонять"
+  },
+  {
+    "first": {
+      "value": "overthrow"
+    },
+    "second": [
+      {
+        "value": "overthrew"
+      }
+    ],
+    "third": [
+      {
+        "value": "overthrown"
+      }
+    ],
+    "translation": "свергать"
+  },
+  {
+    "first": {
+      "value": "partake",
+      "sound": "partake.mp3"
+    },
+    "second": [
+      {
+        "value": "partook",
+        "sound": "partook.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "partaken"
+      }
+    ],
+    "translation": "принимать участие"
+  },
+  {
+    "first": {
+      "value": "plead",
+      "sound": "plead.mp3"
+    },
+    "second": [
+      {
+        "value": "pleaded"
+      },
+      {
+        "value": "pled",
+        "sound": "pled.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "pleaded"
+      },
+      {
+        "value": "pled",
+        "sound": "pled.mp3"
+      }
+    ],
+    "translation": "обращаться к суду"
+  },
+  {
+    "first": {
+      "value": "prepay",
+      "sound": "prepay.mp3"
+    },
+    "second": [
+      {
+        "value": "prepaid",
+        "sound": "prepaid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "prepaid",
+        "sound": "prepaid.mp3"
+      }
+    ],
+    "translation": "платить вперед"
+  },
+  {
+    "first": {
+      "value": "prove",
+      "sound": "prove.mp3"
+    },
+    "second": [
+      {
+        "value": "proved"
+      }
+    ],
+    "third": [
+      {
+        "value": "proven",
+        "sound": "proven.mp3"
+      },
+      {
+        "value": "proved"
+      }
+    ],
+    "translation": "доказывать"
+  },
+  {
+    "first": {
+      "value": "rebind"
+    },
+    "second": [
+      {
+        "value": "rebound"
+      }
+    ],
+    "third": [
+      {
+        "value": "rebound"
+      }
+    ],
+    "translation": "перевязывать"
+  },
+  {
+    "first": {
+      "value": "rebuild",
+      "sound": "rebuild.mp3"
+    },
+    "second": [
+      {
+        "value": "rebuilt",
+        "sound": "rebuilt.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "rebuilt",
+        "sound": "rebuilt.mp3"
+      }
+    ],
+    "translation": "перестроить"
+  },
+  {
+    "first": {
+      "value": "recast"
+    },
+    "second": [
+      {
+        "value": "recast"
+      }
+    ],
+    "third": [
+      {
+        "value": "recast"
+      }
+    ],
+    "translation": "изменять, перестраивать"
+  },
+  {
+    "first": {
+      "value": "redo",
+      "sound": "redo.mp3"
+    },
+    "second": [
+      {
+        "value": "redid",
+        "sound": "redid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "redone",
+        "sound": "redone.mp3"
+      }
+    ],
+    "translation": "делать вновь, переделывать"
+  },
+  {
+    "first": {
+      "value": "rehear",
+      "sound": "rehear.mp3"
+    },
+    "second": [
+      {
+        "value": "reheard"
+      }
+    ],
+    "third": [
+      {
+        "value": "reheard"
+      }
+    ],
+    "translation": "слушать вторично"
+  },
+  {
+    "first": {
+      "value": "remake",
+      "sound": "remake.mp3"
+    },
+    "second": [
+      {
+        "value": "remade",
+        "sound": "remade.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "remade",
+        "sound": "remade.mp3"
+      }
+    ],
+    "translation": "переделывать"
+  },
+  {
+    "first": {
+      "value": "rend",
+      "sound": "rend.mp3"
+    },
+    "second": [
+      {
+        "value": "rent",
+        "sound": "rent.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "rent",
+        "sound": "rent.mp3"
+      }
+    ],
+    "translation": "раздирать"
+  },
+  {
+    "first": {
+      "value": "repay",
+      "sound": "repay.mp3"
+    },
+    "second": [
+      {
+        "value": "repaid",
+        "sound": "repaid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "repaid",
+        "sound": "repaid.mp3"
+      }
+    ],
+    "translation": "отдавать долг"
+  },
+  {
+    "first": {
+      "value": "rerun",
+      "sound": "rerun.mp3"
+    },
+    "second": [
+      {
+        "value": "reran",
+        "sound": "reran.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "rerun",
+        "sound": "rerun.mp3"
+      }
+    ],
+    "translation": "выполнять повторно"
+  },
+  {
+    "first": {
+      "value": "resell",
+      "sound": "resell.mp3"
+    },
+    "second": [
+      {
+        "value": "resold",
+        "sound": "resold.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "resold",
+        "sound": "resold.mp3"
+      }
+    ],
+    "translation": "перепродавать"
+  },
+  {
+    "first": {
+      "value": "reset",
+      "sound": "reset.mp3"
+    },
+    "second": [
+      {
+        "value": "reset",
+        "sound": "reset.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "reset",
+        "sound": "reset.mp3"
+      }
+    ],
+    "translation": "возвращать"
+  },
+  {
+    "first": {
+      "value": "resit",
+      "sound": "resit.mp3"
+    },
+    "second": [
+      {
+        "value": "resat",
+        "sound": "resat.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "resat",
+        "sound": "resat.mp3"
+      }
+    ],
+    "translation": "пересиживать"
+  },
+  {
+    "first": {
+      "value": "retake",
+      "sound": "retake.mp3"
+    },
+    "second": [
+      {
+        "value": "retook",
+        "sound": "retook.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "retaken"
+      }
+    ],
+    "translation": "забирать"
+  },
+  {
+    "first": {
+      "value": "retell",
+      "sound": "retell.mp3"
+    },
+    "second": [
+      {
+        "value": "retold",
+        "sound": "retold.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "retold",
+        "sound": "retold.mp3"
+      }
+    ],
+    "translation": "пересказывать"
+  },
+  {
+    "first": {
+      "value": "rewrite"
+    },
+    "second": [
+      {
+        "value": "rewrote",
+        "sound": "rewrote.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "rewritten",
+        "sound": "rewritten.mp3"
+      }
+    ],
+    "translation": "перезаписать"
+  },
+  {
+    "first": {
+      "value": "rid",
+      "sound": "rid.mp3"
+    },
+    "second": [
+      {
+        "value": "rid",
+        "sound": "rid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "rid",
+        "sound": "rid.mp3"
+      }
+    ],
+    "translation": "избавлять"
+  },
+  {
+    "first": {
+      "value": "saw",
+      "sound": "saw.mp3"
+    },
+    "second": [
+      {
+        "value": "sawed"
+      }
+    ],
+    "third": [
+      {
+        "value": "sawed"
+      },
+      {
+        "value": "sawn",
+        "sound": "sawn.mp3"
+      }
+    ],
+    "translation": "пилить"
+  },
+  {
+    "first": {
+      "value": "seek",
+      "sound": "seek.mp3"
+    },
+    "second": [
+      {
+        "value": "sought",
+        "sound": "sought.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "sought",
+        "sound": "sought.mp3"
+      }
+    ],
+    "translation": "искать"
+  },
+  {
+    "first": {
+      "value": "sew",
+      "sound": "sew.mp3"
+    },
+    "second": [
+      {
+        "value": "sewed"
+      }
+    ],
+    "third": [
+      {
+        "value": "sewn",
+        "sound": "sewn.mp3"
+      },
+      {
+        "value": "sewed"
+      }
+    ],
+    "translation": "шить"
+  },
+  {
+    "first": {
+      "value": "shave",
+      "sound": "shave.mp3"
+    },
+    "second": [
+      {
+        "value": "shaved"
+      }
+    ],
+    "third": [
+      {
+        "value": "shaved"
+      },
+      {
+        "value": "shaven",
+        "sound": "shaven.mp3"
+      }
+    ],
+    "translation": "бриться"
+  },
+  {
+    "first": {
+      "value": "shear",
+      "sound": "shear.mp3"
+    },
+    "second": [
+      {
+        "value": "sheared"
+      }
+    ],
+    "third": [
+      {
+        "value": "sheared"
+      },
+      {
+        "value": "shorn",
+        "sound": "shorn.mp3"
+      }
+    ],
+    "translation": "стричь"
+  },
+  {
+    "first": {
+      "value": "shed",
+      "sound": "shed.mp3"
+    },
+    "second": [
+      {
+        "value": "shed",
+        "sound": "shed.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "shed",
+        "sound": "shed.mp3"
+      }
+    ],
+    "translation": "проливать"
+  },
+  {
+    "first": {
+      "value": "shine",
+      "sound": "shine.mp3"
+    },
+    "second": [
+      {
+        "value": "shined"
+      },
+      {
+        "value": "shone",
+        "sound": "shone.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "shined"
+      },
+      {
+        "value": "shone",
+        "sound": "shone.mp3"
+      }
+    ],
+    "translation": "светить, сиять, озарять"
+  },
+  {
+    "first": {
+      "value": "show",
+      "sound": "show.mp3"
+    },
+    "second": [
+      {
+        "value": "showed"
+      }
+    ],
+    "third": [
+      {
+        "value": "shown",
+        "sound": "shown.mp3"
+      },
+      {
+        "value": "showed"
+      }
+    ],
+    "translation": "показывать"
+  },
+  {
+    "first": {
+      "value": "shrink",
+      "sound": "shrink.mp3"
+    },
+    "second": [
+      {
+        "value": "shrank",
+        "sound": "shrank.mp3"
+      },
+      {
+        "value": "shrunk",
+        "sound": "shrunk.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "shrunk",
+        "sound": "shrunk.mp3"
+      }
+    ],
+    "translation": "сокращаться, сжиматься"
+  },
+  {
+    "first": {
+      "value": "slay",
+      "sound": "slay.mp3"
+    },
+    "second": [
+      {
+        "value": "slew",
+        "sound": "slew.mp3"
+      },
+      {
+        "value": "slayed"
+      }
+    ],
+    "third": [
+      {
+        "value": "slain",
+        "sound": "slain.mp3"
+      },
+      {
+        "value": "slayed"
+      }
+    ],
+    "translation": "убивать"
+  },
+  {
+    "first": {
+      "value": "slide",
+      "sound": "slide.mp3"
+    },
+    "second": [
+      {
+        "value": "slid",
+        "sound": "slid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "slid",
+        "sound": "slid.mp3"
+      }
+    ],
+    "translation": "скользить"
+  },
+  {
+    "first": {
+      "value": "sling",
+      "sound": "sling.mp3"
+    },
+    "second": [
+      {
+        "value": "slung",
+        "sound": "slung.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "slung",
+        "sound": "slung.mp3"
+      }
+    ],
+    "translation": "бросать, швырять"
+  },
+  {
+    "first": {
+      "value": "slink",
+      "sound": "slink.mp3"
+    },
+    "second": [
+      {
+        "value": "slunk",
+        "sound": "slunk.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "slunk",
+        "sound": "slunk.mp3"
+      }
+    ],
+    "translation": "красться, идти крадучись"
+  },
+  {
+    "first": {
+      "value": "slit",
+      "sound": "slit.mp3"
+    },
+    "second": [
+      {
+        "value": "slit",
+        "sound": "slit.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "slit",
+        "sound": "slit.mp3"
+      }
+    ],
+    "translation": "разрезать, рвать в длину"
+  },
+  {
+    "first": {
+      "value": "smell",
+      "sound": "smell.mp3"
+    },
+    "second": [
+      {
+        "value": "smelled"
+      },
+      {
+        "value": "smelt",
+        "sound": "smelt.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "smelled"
+      },
+      {
+        "value": "smelt",
+        "sound": "smelt.mp3"
+      }
+    ],
+    "translation": "пахнуть, нюхать"
+  },
+  {
+    "first": {
+      "value": "sneak",
+      "sound": "sneak.mp3"
+    },
+    "second": [
+      {
+        "value": "snuck",
+        "sound": "snuck.mp3"
+      },
+      {
+        "value": "sneaked"
+      }
+    ],
+    "third": [
+      {
+        "value": "snuck",
+        "sound": "snuck.mp3"
+      },
+      {
+        "value": "sneaked"
+      }
+    ],
+    "translation": "красться, увиливать, избегать"
+  },
+  {
+    "first": {
+      "value": "sow"
+    },
+    "second": [
+      {
+        "value": "sowed"
+      }
+    ],
+    "third": [
+      {
+        "value": "sown",
+        "sound": "sown.mp3"
+      },
+      {
+        "value": "sowed"
+      }
+    ],
+    "translation": "сеять"
+  },
+  {
+    "first": {
+      "value": "speed",
+      "sound": "speed.mp3"
+    },
+    "second": [
+      {
+        "value": "sped",
+        "sound": "sped.mp3"
+      },
+      {
+        "value": "speeded"
+      }
+    ],
+    "third": [
+      {
+        "value": "sped",
+        "sound": "sped.mp3"
+      },
+      {
+        "value": "speeded"
+      }
+    ],
+    "translation": "ускорять, спешить"
+  },
+  {
+    "first": {
+      "value": "spell",
+      "sound": "spell.mp3"
+    },
+    "second": [
+      {
+        "value": "spelled"
+      },
+      {
+        "value": "spelt",
+        "sound": "spelt.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "spelled"
+      },
+      {
+        "value": "spelt",
+        "sound": "spelt.mp3"
+      }
+    ],
+    "translation": "писать или читать по буквам"
+  },
+  {
+    "first": {
+      "value": "spill",
+      "sound": "spill.mp3"
+    },
+    "second": [
+      {
+        "value": "spilled"
+      },
+      {
+        "value": "spilt",
+        "sound": "spilt.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "spilled"
+      },
+      {
+        "value": "spilt",
+        "sound": "spilt.mp3"
+      }
+    ],
+    "translation": "проливать, разливать"
+  },
+  {
+    "first": {
+      "value": "spin",
+      "sound": "spin.mp3"
+    },
+    "second": [
+      {
+        "value": "spun",
+        "sound": "spun.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "spun",
+        "sound": "spun.mp3"
+      }
+    ],
+    "translation": "прясть"
+  },
+  {
+    "first": {
+      "value": "spit",
+      "sound": "spit.mp3"
+    },
+    "second": [
+      {
+        "value": "spit",
+        "sound": "spit.mp3"
+      },
+      {
+        "value": "spat"
+      }
+    ],
+    "third": [
+      {
+        "value": "spit",
+        "sound": "spit.mp3"
+      },
+      {
+        "value": "spat"
+      }
+    ],
+    "translation": "плевать"
+  },
+  {
+    "first": {
+      "value": "split",
+      "sound": "split.mp3"
+    },
+    "second": [
+      {
+        "value": "split",
+        "sound": "split.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "split",
+        "sound": "split.mp3"
+      }
+    ],
+    "translation": "расщеплять"
+  },
+  {
+    "first": {
+      "value": "spoil",
+      "sound": "spoil.mp3"
+    },
+    "second": [
+      {
+        "value": "spoiled",
+        "sound": "spoiled.mp3"
+      },
+      {
+        "value": "spoilt",
+        "sound": "spoilt.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "spoiled",
+        "sound": "spoiled.mp3"
+      },
+      {
+        "value": "spoilt",
+        "sound": "spoilt.mp3"
+      }
+    ],
+    "translation": "портить"
+  },
+  {
+    "first": {
+      "value": "spread",
+      "sound": "spread.mp3"
+    },
+    "second": [
+      {
+        "value": "spread",
+        "sound": "spread.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "spread",
+        "sound": "spread.mp3"
+      }
+    ],
+    "translation": "распространять(ся), простирать(ся)"
+  },
+  {
+    "first": {
+      "value": "spring",
+      "sound": "spring.mp3"
+    },
+    "second": [
+      {
+        "value": "sprang",
+        "sound": "sprang.mp3"
+      },
+      {
+        "value": "sprung",
+        "sound": "sprung.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "sprung",
+        "sound": "sprung.mp3"
+      }
+    ],
+    "translation": "отскочить, прыгать, скакать, возникать"
+  },
+  {
+    "first": {
+      "value": "sting",
+      "sound": "sting.mp3"
+    },
+    "second": [
+      {
+        "value": "stung",
+        "sound": "stung.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "stung",
+        "sound": "stung.mp3"
+      }
+    ],
+    "translation": "жалить"
+  },
+  {
+    "first": {
+      "value": "stink",
+      "sound": "stink.mp3"
+    },
+    "second": [
+      {
+        "value": "stunk",
+        "sound": "stunk.mp3"
+      },
+      {
+        "value": "stank",
+        "sound": "stank.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "stunk",
+        "sound": "stunk.mp3"
+      }
+    ],
+    "translation": "вонять"
+  },
+  {
+    "first": {
+      "value": "strew",
+      "sound": "strew.mp3"
+    },
+    "second": [
+      {
+        "value": "strewed"
+      }
+    ],
+    "third": [
+      {
+        "value": "strewn",
+        "sound": "strewn.mp3"
+      },
+      {
+        "value": "strewed"
+      }
+    ],
+    "translation": "усеять, устлать"
+  },
+  {
+    "first": {
+      "value": "stride",
+      "sound": "stride.mp3"
+    },
+    "second": [
+      {
+        "value": "strode",
+        "sound": "strode.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "stridden"
+      }
+    ],
+    "translation": "шагать, наносить удар"
+  },
+  {
+    "first": {
+      "value": "strike",
+      "sound": "strike.mp3"
+    },
+    "second": [
+      {
+        "value": "struck",
+        "sound": "struck.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "struck",
+        "sound": "struck.mp3"
+      }
+    ],
+    "translation": "ударить, бить, бастовать"
+  },
+  {
+    "first": {
+      "value": "string",
+      "sound": "string.mp3"
+    },
+    "second": [
+      {
+        "value": "strung",
+        "sound": "strung.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "strung",
+        "sound": "strung.mp3"
+      }
+    ],
+    "translation": "нанизать, натянуть"
+  },
+  {
+    "first": {
+      "value": "strive",
+      "sound": "strive.mp3"
+    },
+    "second": [
+      {
+        "value": "strove",
+        "sound": "strove.mp3"
+      },
+      {
+        "value": "strived"
+      }
+    ],
+    "third": [
+      {
+        "value": "striven",
+        "sound": "striven.mp3"
+      },
+      {
+        "value": "strived"
+      }
+    ],
+    "translation": "стараться"
+  },
+  {
+    "first": {
+      "value": "sublet",
+      "sound": "sublet.mp3"
+    },
+    "second": [
+      {
+        "value": "sublet",
+        "sound": "sublet.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "sublet",
+        "sound": "sublet.mp3"
+      }
+    ],
+    "translation": "передавать в субаренду"
+  },
+  {
+    "first": {
+      "value": "swear",
+      "sound": "swear.mp3"
+    },
+    "second": [
+      {
+        "value": "swore",
+        "sound": "swore.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "sworn",
+        "sound": "sworn.mp3"
+      }
+    ],
+    "translation": "клясться, присягать"
+  },
+  {
+    "first": {
+      "value": "swell",
+      "sound": "swell.mp3"
+    },
+    "second": [
+      {
+        "value": "swelled"
+      }
+    ],
+    "third": [
+      {
+        "value": "swollen",
+        "sound": "swollen.mp3"
+      },
+      {
+        "value": "swelled"
+      }
+    ],
+    "translation": "разбухать"
+  },
+  {
+    "first": {
+      "value": "thrust",
+      "sound": "thrust.mp3"
+    },
+    "second": [
+      {
+        "value": "thrust",
+        "sound": "thrust.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "thrust",
+        "sound": "thrust.mp3"
+      }
+    ],
+    "translation": "колоть, пронзать"
+  },
+  {
+    "first": {
+      "value": "tread",
+      "sound": "tread.mp3"
+    },
+    "second": [
+      {
+        "value": "trod",
+        "sound": "trod.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "trodden",
+        "sound": "trodden.mp3"
+      },
+      {
+        "value": "trod",
+        "sound": "trod.mp3"
+      }
+    ],
+    "translation": "ступать"
+  },
+  {
+    "first": {
+      "value": "unbend",
+      "sound": "unbend.mp3"
+    },
+    "second": [
+      {
+        "value": "unbent",
+        "sound": "unbent.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "unbent",
+        "sound": "unbent.mp3"
+      }
+    ],
+    "translation": "выпрямляться, разгибаться"
+  },
+  {
+    "first": {
+      "value": "underbid",
+      "sound": "underbid.mp3"
+    },
+    "second": [
+      {
+        "value": "underbid",
+        "sound": "underbid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "underbid",
+        "sound": "underbid.mp3"
+      }
+    ],
+    "translation": "снижать цену"
+  },
+  {
+    "first": {
+      "value": "undercut",
+      "sound": "undercut.mp3"
+    },
+    "second": [
+      {
+        "value": "undercut",
+        "sound": "undercut.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "undercut",
+        "sound": "undercut.mp3"
+      }
+    ],
+    "translation": "сбивать цены"
+  },
+  {
+    "first": {
+      "value": "undergo",
+      "sound": "undergo.mp3"
+    },
+    "second": [
+      {
+        "value": "underwent",
+        "sound": "underwent.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "undergone"
+      }
+    ],
+    "translation": "испытывать, переносить"
+  },
+  {
+    "first": {
+      "value": "underlie",
+      "sound": "underlie.mp3"
+    },
+    "second": [
+      {
+        "value": "underlay",
+        "sound": "underlay.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "underlain"
+      }
+    ],
+    "translation": "лежать в основе"
+  },
+  {
+    "first": {
+      "value": "underpay",
+      "sound": "underpay.mp3"
+    },
+    "second": [
+      {
+        "value": "underpaid"
+      }
+    ],
+    "third": [
+      {
+        "value": "underpaid"
+      }
+    ],
+    "translation": "оплачивать слишком низко"
+  },
+  {
+    "first": {
+      "value": "undersell",
+      "sound": "undersell.mp3"
+    },
+    "second": [
+      {
+        "value": "undersold"
+      }
+    ],
+    "third": [
+      {
+        "value": "undersold"
+      }
+    ],
+    "translation": "продавать дешевле"
+  },
+  {
+    "first": {
+      "value": "undertake",
+      "sound": "undertake.mp3"
+    },
+    "second": [
+      {
+        "value": "undertook",
+        "sound": "undertook.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "undertaken"
+      }
+    ],
+    "translation": "предпринять"
+  },
+  {
+    "first": {
+      "value": "underwrite",
+      "sound": "underwrite.mp3"
+    },
+    "second": [
+      {
+        "value": "underwrote",
+        "sound": "underwrote.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "underwritten",
+        "sound": "underwritten.mp3"
+      }
+    ],
+    "translation": "подписываться"
+  },
+  {
+    "first": {
+      "value": "undo",
+      "sound": "undo.mp3"
+    },
+    "second": [
+      {
+        "value": "undid",
+        "sound": "undid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "undone",
+        "sound": "undone.mp3"
+      }
+    ],
+    "translation": "уничтожать сделанное"
+  },
+  {
+    "first": {
+      "value": "unfreeze",
+      "sound": "unfreeze.mp3"
+    },
+    "second": [
+      {
+        "value": "unfroze"
+      }
+    ],
+    "third": [
+      {
+        "value": "unfrozen"
+      }
+    ],
+    "translation": "размораживать"
+  },
+  {
+    "first": {
+      "value": "unsay",
+      "sound": "unsay.mp3"
+    },
+    "second": [
+      {
+        "value": "unsaid",
+        "sound": "unsaid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "unsaid",
+        "sound": "unsaid.mp3"
+      }
+    ],
+    "translation": "брать назад свои слова"
+  },
+  {
+    "first": {
+      "value": "unwind",
+      "sound": "unwind.mp3"
+    },
+    "second": [
+      {
+        "value": "unwound",
+        "sound": "unwound.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "unwound",
+        "sound": "unwound.mp3"
+      }
+    ],
+    "translation": "развертывать"
+  },
+  {
+    "first": {
+      "value": "uphold",
+      "sound": "uphold.mp3"
+    },
+    "second": [
+      {
+        "value": "upheld",
+        "sound": "upheld.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "upheld",
+        "sound": "upheld.mp3"
+      }
+    ],
+    "translation": "поддерживать"
+  },
+  {
+    "first": {
+      "value": "upset"
+    },
+    "second": [
+      {
+        "value": "upset"
+      }
+    ],
+    "third": [
+      {
+        "value": "upset"
+      }
+    ],
+    "translation": "опрокинуться"
+  },
+  {
+    "first": {
+      "value": "waylay",
+      "sound": "waylay.mp3"
+    },
+    "second": [
+      {
+        "value": "waylaid",
+        "sound": "waylaid.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "waylaid",
+        "sound": "waylaid.mp3"
+      }
+    ],
+    "translation": "подстерегать"
+  },
+  {
+    "first": {
+      "value": "weave",
+      "sound": "weave.mp3"
+    },
+    "second": [
+      {
+        "value": "wove",
+        "sound": "wove.mp3"
+      },
+      {
+        "value": "weaved"
+      }
+    ],
+    "third": [
+      {
+        "value": "woven",
+        "sound": "woven.mp3"
+      },
+      {
+        "value": "weaved"
+      }
+    ],
+    "translation": "ткать"
+  },
+  {
+    "first": {
+      "value": "wed",
+      "sound": "wed.mp3"
+    },
+    "second": [
+      {
+        "value": "wed",
+        "sound": "wed.mp3"
+      },
+      {
+        "value": "wedded",
+        "sound": "wedded.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "wed",
+        "sound": "wed.mp3"
+      },
+      {
+        "value": "wedded",
+        "sound": "wedded.mp3"
+      }
+    ],
+    "translation": "жениться, выдавать замуж"
+  },
+  {
+    "first": {
+      "value": "wet",
+      "sound": "wet.mp3"
+    },
+    "second": [
+      {
+        "value": "wet",
+        "sound": "wet.mp3"
+      },
+      {
+        "value": "wetted"
+      }
+    ],
+    "third": [
+      {
+        "value": "wet",
+        "sound": "wet.mp3"
+      },
+      {
+        "value": "wetted"
+      }
+    ],
+    "translation": "мочить, увлажнять"
+  },
+  {
+    "first": {
+      "value": "wind"
+    },
+    "second": [
+      {
+        "value": "wound"
+      }
+    ],
+    "third": [
+      {
+        "value": "wound"
+      }
+    ],
+    "translation": "заводить (механизм)"
+  },
+  {
+    "first": {
+      "value": "withdraw",
+      "sound": "withdraw.mp3"
+    },
+    "second": [
+      {
+        "value": "withdrew",
+        "sound": "withdrew.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "withdrawn",
+        "sound": "withdrawn.mp3"
+      }
+    ],
+    "translation": "взять назад, отозвать"
+  },
+  {
+    "first": {
+      "value": "withhold",
+      "sound": "withhold.mp3"
+    },
+    "second": [
+      {
+        "value": "withheld",
+        "sound": "withheld.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "withheld",
+        "sound": "withheld.mp3"
+      }
+    ],
+    "translation": "воздерживаться, отказывать"
+  },
+  {
+    "first": {
+      "value": "withstand",
+      "sound": "withstand.mp3"
+    },
+    "second": [
+      {
+        "value": "withstood",
+        "sound": "withstood.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "withstood",
+        "sound": "withstood.mp3"
+      }
+    ],
+    "translation": "противостоять"
+  },
+  {
+    "first": {
+      "value": "wring",
+      "sound": "wring.mp3"
+    },
+    "second": [
+      {
+        "value": "wrung",
+        "sound": "wrung.mp3"
+      }
+    ],
+    "third": [
+      {
+        "value": "wrung",
+        "sound": "wrung.mp3"
+      }
+    ],
+    "translation": "скрутить, сжимать"
+  }
+]
